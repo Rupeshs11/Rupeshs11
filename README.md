@@ -27,7 +27,7 @@ Hey there! I'm **Rupesh** 👋 — also known as **Knox**. I'm a passionate deve
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](www.linkedin.com/in/rupesh-satale-647b212a8)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rupesh-satale-647b212a8)
 [![Mail](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white)](mailto:rbsatale7@gmail.com)
 
 ---
