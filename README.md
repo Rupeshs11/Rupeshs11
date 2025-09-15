@@ -30,10 +30,13 @@ I'm a passionate developer who loves building cool projects and learning new tec
 
 ## 📈 GitHub Stats
 
-![Knox's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThorVishwajit&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThorVishwajit&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=ThorVishwajit&theme=radical)  
-![Trophies](https://github-profile-trophy.vercel.app/?username=ThorVishwajit&theme=radical&margin-w=10&margin-h=10)
+![Knox's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rupeshs11&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rupeshs11&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=Rupeshs11&theme=radical)  
+![Trophies](https://github-profile-trophy.vercel.app/?username=Rupeshs11&theme=radical&margin-w=10&margin-h=10)
+
+<!-- Highlight repo you contributed to -->
+[![Repo: Virtual-Assistant-RAG](https://github-readme-stats.vercel.app/api/pin/?username=ThorVishwajit&repo=Virtual-Assistant-RAG&theme=radical)](https://github.com/ThorVishwajit/Virtual-Assistant-RAG)
 
 ---
 
@@ -44,7 +47,7 @@ I'm a passionate developer who loves building cool projects and learning new tec
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=ThorVishwajit&color=blue&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Rupeshs11&color=blue&style=flat)
 
 ---
 
