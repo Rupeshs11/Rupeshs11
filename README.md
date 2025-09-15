@@ -1,12 +1,17 @@
 # 💻 Welcome to my GitHub!
 
-Hey there! I'm **Rupesh** 👋 — also known as **Knox**. I'm a passionate developer who loves building cool projects and learning new tech! 🚀
+Hey there! I'm **Rupesh** 👋 — also known as **Knox**.  
+I'm a passionate developer who loves building cool projects and learning new tech! 🚀
+
+---
 
 ## 🧠 About Me
 
-- 🔭 I’m currently working on: **Tourstack** – a Hotel Management & Tourism web app
-- 🌱 I’m currently learning: Advanced **Java** & backend integrations
-- ⚡ Fun fact: I debug better with tea ☕ and lo-fi music 🎶
+- 🔭 I’m currently working on: **Mikasa** – A Visual Assistant 
+- 🌱 I’m currently learning: Advanced **RAG Pipelines** & **LLM Training**
+- ⚡ Fun fact: I debug better with tea ☕ and lo-fi music 🎶  
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -19,17 +24,28 @@ Hey there! I'm **Rupesh** 👋 — also known as **Knox**. I'm a passionate deve
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white&style=flat)
+
+---
 
 ## 📈 GitHub Stats
 
-![Knox's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rupeshs11&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rupeshs11&layout=compact&theme=radical)
+![Knox's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThorVishwajit&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThorVishwajit&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=ThorVishwajit&theme=radical)  
+![Trophies](https://github-profile-trophy.vercel.app/?username=ThorVishwajit&theme=radical&margin-w=10&margin-h=10)
+
+---
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rupesh-satale-647b212a8)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rupesh-satale-647b212a8)  
 [![Mail](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white)](mailto:rbsatale7@gmail.com)
 
 ---
 
-*Thanks for visiting! Keep building, keep learning ✌️*
+![Profile Views](https://komarev.com/ghpvc/?username=ThorVishwajit&color=blue&style=flat)
+
+---
+
+✨ *Thanks for visiting! Keep building, keep learning ✌️*
