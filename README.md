@@ -32,7 +32,7 @@ I'm a passionate developer who loves building cool projects and learning new tec
 
 ![Knox's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rupeshs11&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rupeshs11&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Rupeshs11&theme=radical)  
+![Streak](https://img.shields.io/badge/GitHub_Streak-🔥-radical?style=for-the-badge&logo=github)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Rupeshs11&theme=radical&margin-w=10&margin-h=10)
 
 <!-- Highlight repo you contributed to -->
