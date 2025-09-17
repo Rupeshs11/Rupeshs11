@@ -32,8 +32,11 @@ I'm a passionate developer who loves building cool projects and learning new tec
 
 ![Knox's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rupeshs11&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rupeshs11&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rupeshs11&theme=radical)
-![Trophies](https://github-profile-trophy.vercel.app/?username=Rupeshs11&theme=radical&margin-w=10&margin-h=10)
+![Knox's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rupeshs11&theme=radical)
+![Achievement](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png)
+![Achievement](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png)
+![Achievement](https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png)
+
 
 <!-- Highlight repo you contributed to -->
 [![Repo: Virtual-Assistant-RAG](https://github-readme-stats.vercel.app/api/pin/?username=ThorVishwajit&repo=Virtual-Assistant-RAG&theme=radical)](https://github.com/ThorVishwajit/Virtual-Assistant-RAG)
