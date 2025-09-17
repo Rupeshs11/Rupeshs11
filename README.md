@@ -18,7 +18,6 @@
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" />
   <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat" />
-  <br/>
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat" />
@@ -45,7 +44,7 @@
 ---
 
 ## 📌 Highlighted Project
-<p align="center">
+<p>
   <a href="https://github.com/ThorVishwajit/Virtual-Assistant-RAG">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ThorVishwajit&repo=Virtual-Assistant-RAG&theme=radical" />
   </a>
