@@ -7,7 +7,7 @@
 ## 🧠 About Me
 - 🔭 I’m currently working on: **Mikasa** – A Visual Assistant  
 - 🌱 I’m currently learning: Advanced **RAG Pipelines** & **LLM Training**  
-- ⚡ Fun fact: I debug better with tea ☕ and lo-fi music 🎶  
+- ⚡ Fun fact: I debug better with coffee ☕ and lo-fi music 🎶  
 
 ---
 
