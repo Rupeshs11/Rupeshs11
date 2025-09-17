@@ -1,6 +1,6 @@
-<h1 align="center">💻 Welcome to my GitHub!</h1>
-<h3 align="center">Hey there! I'm <b>Rupesh</b> 👋 — also known as <b>Knox</b></h3>
-<p align="center">A passionate developer who loves building cool projects and learning new tech 🚀</p>
+<h1>💻 Welcome to my GitHub!</h1>
+<h3>Hey there! I'm <b>Rupesh</b> 👋 — also known as <b>Knox</b></h3>
+<p>A passionate developer who loves building cool projects and learning new tech 🚀</p>
 
 ---
 
@@ -12,7 +12,7 @@
 ---
 
 ## 🛠️ Tech Stack
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" />
@@ -54,7 +54,7 @@
 ---
 
 ## 🌐 Connect with Me
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/rupesh-satale-647b212a8">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white" />
   </a>
@@ -65,7 +65,7 @@
 
 ---
 
-<p align="center">
+<p>
   <img src="https://komarev.com/ghpvc/?username=Rupeshs11&color=blue&style=flat" />
 </p>
 
