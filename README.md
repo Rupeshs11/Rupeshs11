@@ -15,7 +15,7 @@
 ## 👨‍💻 About Me
 
 - 🔭 Currently building **Mikasa** – A Visual AI Assistant
-- 🌱 Learning **RAG Pipelines** & **LLM Fine-tuning**
+- 🌱 Learning **DevOps** & **MLOps**
 - ☁️ Exploring **AWS**, **Docker** & **CI/CD**
 - ⚡ Fun fact: I debug better with coffee ☕ and lo-fi 🎶
 
