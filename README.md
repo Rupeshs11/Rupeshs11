@@ -52,11 +52,15 @@
 
 ---
 
-## � Featured Projects
+## 🔥 Streak & Vibes
 
 <div align="center">
 
-[![ClimaEngineX](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Rupeshs11&repo=ClimaEngineX&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Rupeshs11/ClimaEngineX)
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=Rupeshs11&theme=tokyonight&hide_border=true&background=0D1117" width="55%"/>
+
+<br/>
+
+*"First, solve the problem. Then, write the code."* — John Johnson
 
 </div>
 
