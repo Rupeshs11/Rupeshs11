@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently building **Mikasa** – A Visual AI Assistant
+- 🔭 Currently building **CareerSage** – AI Powered Career Planning and Guidance Platform
 - 🌱 Learning **DevOps** & **MLOps**
 - ☁️ Exploring **AWS**, **Docker** & **CI/CD**
 - ⚡ Fun fact: I debug better with coffee ☕ and lo-fi 🎶
