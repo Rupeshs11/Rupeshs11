@@ -17,7 +17,7 @@
 - 🔭 Currently building **CareerSage** – AI Powered Career Planning and Guidance Platform
 - 🌱 Learning **DevOps** & **MLOps**
 - ☁️ Exploring **AWS**, **Docker** & **CI/CD**
-- 🌊 Fun fact: Still chasing my One Piece — writing code, breaking limits, and enjoying the journey.
+- 🌊 Fun fact: Still chasing my **One Piece** — writing code, breaking limits, and enjoying the journey.
 
 ---
 
