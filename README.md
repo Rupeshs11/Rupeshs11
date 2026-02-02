@@ -71,7 +71,7 @@
 <div align="center">
   <img src="assets/space-shooter.gif" width="85%" />
   <br/>
-  <sub>Generated using GitHub Actions • Updates daily 🚀</sub>
+  <sub>Generated using GitHub Actions 🚀</sub>
 </div>
 
 ---
