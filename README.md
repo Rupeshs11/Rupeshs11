@@ -71,7 +71,6 @@
 <div align="center">
   <img src="assets/rupeshs11.gif" width="85%" />
   <br/>
-  <sub>Generated using GitHub Actions 🚀</sub>
 </div>
 
 ---
