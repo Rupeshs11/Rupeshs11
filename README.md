@@ -69,7 +69,7 @@
 ## 🎮 GitHub Activity Game
 
 <div align="center">
-  <img src="assets/rupeshs11.gif" width="85%" />
+  <img src="assets/space-shooter.gif" width="85%" />
   <br/>
 </div>
 
