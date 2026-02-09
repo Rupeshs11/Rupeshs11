@@ -30,7 +30,7 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,php,tailwind,spring,mysql,mongo,aws,docker,kubernetes,terraform,git,github,githubactions,linux,flask,prometheus&perline=10&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,php,tailwind,spring,mysql,mongo,aws,docker,kubernetes,terraform,git,github,githubactions,linux,flask,prometheus,grafana&perline=10&theme=dark" />
 </div>
 
 ---
