@@ -35,21 +35,19 @@
 
 ---
 
+
 ## 📊 GitHub Analytics
 
 <div align="center">
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rupeshs11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&hide_title=true" width="100%"/>
-</td>
-<td width="50%">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rupeshs11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&hide_title=true" width="100%"/>
-</td>
-</tr>
-</table>
-</div>
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rupeshs11&theme=tokyonight" width="100%"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rupeshs11&theme=tokyonight" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rupeshs11&theme=tokyonight" width="48%"/>
+
+</div>
 ---
 
 ## 🔥 Streak & Vibes
