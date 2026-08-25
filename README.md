@@ -41,10 +41,10 @@
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rupeshs11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&hide_title=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Rupeshs11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&hide_title=true" width="100%"/>
 </td>
 <td width="50%">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rupeshs11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&hide_title=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupeshs11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&hide_title=true" width="100%"/>
 </td>
 </tr>
 </table>
