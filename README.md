@@ -49,6 +49,7 @@
 </tr>
 </table>
 </div>
+
 ---
 
 ## 🔥 Streak & Vibes
