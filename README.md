@@ -32,7 +32,7 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,spring,mysql,mongo,redis,flask,git,github,githubactions,linux,ubuntu,redhat,rockylinux,windows,aws,azure,gcp,docker,kubernetes,prometheus,grafana,terraform,jenkins,ansible,gitlab,go,postman&perline=10&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,spring,mysql,mongo,redis,flask,git,github,githubactions,linux,ubuntu,redhat,windows,aws,azure,gcp,docker,kubernetes,prometheus,grafana,terraform,jenkins,ansible,gitlab,go,postman&perline=10&theme=dark" />
 </div>
 
 ---
