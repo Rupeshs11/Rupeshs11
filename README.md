@@ -6,7 +6,9 @@
 
 <a href="https://www.linkedin.com/in/rupesh-satale-647b212a8"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:rbsatale7@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=Rupeshs11&style=flat-square&color=6366F1"/>
+<a href="https://github.com/Rupeshs11">
+  <img src="https://komarev.com/ghpvc/?username=Rupeshs11&label=Profile%20Views&color=6366F1&style=flat-square" alt="Profile Views"/>
+</a>
 
 </div>
 
